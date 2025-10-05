@@ -8,6 +8,11 @@ Understand the basic idea of **Offensive Security**, and its importance in the c
 
 ---
 
+## Key Terms
+- **Offensive Security:** Aims to identify and exploit system vulnerabilities to enhance security measures.
+
+---
+
 ## About this Lab
 - The main focus of this lab was to introduce me to the idea of offensive security, and give me a basic idea of what it is. 
 - During this lab we utilized the tool "dirb" which used a brute-force approach. I utilized "dirb" by entering "dirb http://fakebank.thm" into terminal which then led the the output of a wordlist file, and successful URLs that work from the wordlist.
