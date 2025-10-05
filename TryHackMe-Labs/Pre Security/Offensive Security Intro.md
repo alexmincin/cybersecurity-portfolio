@@ -20,5 +20,12 @@ Understand the basic idea of **Offensive Security**, and its importance in the c
 
 ---
 
+## What to Look for
+ - Software bugs to exploit
+ - Insecure setups
+ - Unenforced access control policies
+
+---
+
 ## Reflection
 This lab introduced me to the general idea of **Offensive Security**, and allowed me to understand the kind of vulnerabilities we are looking for when trying to enhance system defences. Overall, the lab was very basic and easy but I found it to be very helpful in getting into the mind of a cybersecurity analyst. 
